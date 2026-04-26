@@ -1,9 +1,7 @@
 # spectriam
 Spectriam is an open‑source, portable multi‑radio security and analysis tool for wireless protocols - including Wi‑Fi, Bluetooth Low Energy, and 2.4 GHz ISM RF (nRF24). Built for research, education, and testing of your own systems
 
-
-> ⚠️ **Important:** Spectriam is intended **only** for testing **your own** systems and for **educational/research** purposes. Do **not** use it to intercept, disrupt, or access wireless communications without authorization. See [Safety & Legal](./docs/safety-and-legal.md).
-
+>**Important:** Spectriam is intended **only** for testing **your own** systems and for **educational/research** purposes. Do **not** use it to intercept, disrupt, or access wireless communications without authorization
 
 ## ✨ Features (What Spectriam can do)
 
